@@ -1,9 +1,11 @@
 ---
-title: "math test"
+title: "Katex test"
 description: "Pagination works regardless of folder name."
 date: "2024-03-22"
 tags:
   - example
+  - latex
+  - test
 ---
 
 Aquí va una fórmula inline: $f(x) = x^2 + 2x + 1$.
